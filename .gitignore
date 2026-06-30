@@ -1,0 +1,7 @@
+# Old Next.js build (not needed)
+_next/
+
+# Local tooling
+scripts/
+.DS_Store
+Thumbs.db
